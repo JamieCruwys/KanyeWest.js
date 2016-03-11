@@ -21,6 +21,7 @@ var quotes =
     "Sometimes when I see a bad performance and people still clap... I wonder if they're clapping because they liked what they saw or because they're happy it's over?",
     "I've known my mom since I was zero years old. She is quite dope.",
     "I'm so gifted at findin' what I don't like the most",
+    "I have to dress Kim everyday so she doesn’t embarrass me.",
 ];
 
 function kayneSays()
