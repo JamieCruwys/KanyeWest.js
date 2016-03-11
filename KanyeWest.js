@@ -24,7 +24,7 @@ var quotes =
     "I have to dress Kim everyday so she doesn’t embarrass me.",
 ];
 
-function kayneSays()
+function kanyeSays()
 {
     var randomIndex = Math.floor(Math.random() * quotes.length);
     return quotes[randomIndex];
